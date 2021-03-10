@@ -1,0 +1,2 @@
+scoreboard objectives add Flight stat.flyOneCm Flight
+execute as @a[score_Flight_Min_1]
